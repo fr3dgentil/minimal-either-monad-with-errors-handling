@@ -1,0 +1,19 @@
+{
+  "name": "minimal-either-monad-with-errors-handling",
+  "version": "1.0.0",
+  "description": "Minimal either monad with handling of errors of the map's method to Either.left.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "monad",
+    "either",
+    "minimal"
+  ],
+  "author": "Fred Gentil",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
