@@ -11,7 +11,11 @@
     "either",
     "minimal"
   ],
-  "author": "Fred Gentil",
+ "author": "Frédéric Gentil",
+ "repository": {
+    "type": "git",
+    "url": "git://github.com/fr3dgentil/minimal-either-monad-with-errors-handling.git"
+  },
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2"
